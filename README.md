@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+NAME:DEEPIKA P
+REFERENCE:212223240024
 ## AIM:
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
